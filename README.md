@@ -1,11 +1,10 @@
-Hi, I'm KoiFresh
+# 🐧 Hi, I'm KoiFresh 
 
-- 👋 Hi, I’m @KoiFresh
-- 👀 I’m interested in programming and 3d printing
-- 📫 How to reach me ... kai.mayer@dieklingel.com
-- ✨ Check out my latest project at https://dieklingel.de/
+I like building software using technologies which take a look not only on the
+user experience but also on the developer experience. I'm interesed in 🖨️ 3d
+printing and 💻 programming, mostly on linux based systems. I would highly
+recommend checking out my personal website 🌎 <https://mayer.sh/> or my latest
+project 🔔 <https://dieklingel.com/> for more information. I really enjoy using
+emojis, thats wy they are all over my profile.
 
-<!---
-KoiFresh/KoiFresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you would like to reach me, you could send me an email to <kai@mayer.sh>.
