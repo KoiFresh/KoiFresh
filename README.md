@@ -5,6 +5,6 @@ user experience but also on the developer experience. I'm interesed in 🖨️ 3
 printing and 💻 programming, mostly on linux based systems. I would highly
 recommend checking out my personal website 🌎 <https://mayer.sh/> or my latest
 project 🔔 <https://dieklingel.com/> for more information. I really enjoy using
-emojis, thats wy they are all over my profile.
+emojis, thats why they are all over my profile.
 
-If you would like to reach me, you could send me an email to <kai@mayer.sh>.
+If you would like to reach me, you could send me an 📫 email to <kai@mayer.sh>.
